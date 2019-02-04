@@ -1,0 +1,9 @@
+numpy
+click
+scikit-learn
+scipy
+click
+matplotlib
+pandas
+plotly
+networkx
